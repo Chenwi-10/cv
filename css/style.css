@@ -1,0 +1,143 @@
+
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather',verdana,sans-serif;
+}
+.pro{
+    text-decoration: underline;
+}
+p{
+    line-height: 2;
+}
+
+h1{
+    color:#66bfbf;
+    font-family: 'sacramento',cursive;
+    font-size:562.5%;
+    margin:50px auto 0px auto; 
+}
+h2{
+    color:#66bfbf;
+    font-family: 'montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    color:#11999e; 
+    font-family: 'montserrat', sans-serif; 
+}
+.top-container{
+    background-color: #EfF9F5;
+    position:relative;
+    padding-top: 100px;
+  
+   
+}
+
+.middle-container{
+    margin: 100px 0;
+   
+
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+  
+}
+
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 10px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 350px;  
+}
+.skill-row{
+    margin:100px auto 100px auto;
+    width:50%;
+    text-align: left;
+}
+.code-image{
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+.camera-man{
+    float: right;
+    width: 25%;
+    margin-left:30px;
+}
+.tutor-image{
+    float: left;
+    width: 25%;
+    margin: auto 30px auto auto;
+}
+.football-image{
+    float: right;
+    width: 25%;
+    margin: auto auto auto 30px;
+}
+.profile{
+    width:50%;
+    margin: 100px auto auto auto;
+}
+.my-pic{
+    width:25%;
+    margin: auto;
+}
+hr{
+    width: 5%;
+    border: dotted #909393;
+    border-bottom: none;
+    margin: 100px auto;
+}
+.contact-message{
+    width: 40%;
+    margin:40px auto 50px;
+}
+
+
+.buttonClass {
+    font-size:16px;
+    font-family:Arial;
+    width:154px;
+    height:100px;
+    border-width:1px;
+    color:#ffffff;
+    border-color:#057fd0;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    border-bottom-left-radius:20px;
+    border-bottom-right-radius:20px;
+    box-shadow: 0px 1px 0px 0px rgba(93, 94, 97, 1);
+    text-shadow: -1px 14px 6px #5b6178;
+    background:linear-gradient(rgba(18, 182, 241, 1), rgba(8, 90, 121, 1));
+    text-decoration: none;
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(8, 90, 121, 1), rgba(18, 182, 241, 1));
+  }
+  a{
+    color:#11999e;
+    text-decoration: none;
+    font-family:  'montserrat', sans-serif; 
+    margin: 10px 20px;
+  }
+  a:hover{
+    color:#eaf6f6;
+    font-size:30px;
+  }
+  .copyright{
+    color:eaf6f6;
+    font-size: 0.75rem;
+    padding:10px auto;
+  }              
